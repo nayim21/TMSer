@@ -8,10 +8,10 @@ model diagnostics, and forecasting.
 some key concepts and techniques commonly used in time series analysis:
 Trend, Seasonality, Cyclical Patterns, Autocorrelation, Stationarity.
 
-This project uses some databases
-Import some library
-load Database
-Visualization
-Define time step 
-Use the LSTM model, Fit, Predict
-Calculate metric
+This project uses some databases,
+*Import some library
+*load Database
+*Visualization
+*Define time step 
+*Use the LSTM model, Fit, Predict
+*Calculate metric
