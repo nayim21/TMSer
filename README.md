@@ -9,10 +9,10 @@ some key concepts and techniques commonly used in time series analysis:
 Trend, Seasonality, Cyclical Patterns, Autocorrelation, Stationarity.
 In this project, EDA is done.
 <br>*Reading dataset
-<br>*Analyzing the data /n
-<br>*Checking for the duplicates /n
-<br>*Missing Values Calculation   /n
-<br>*Exploratory Data Analysis   /n
+<br>*Analyzing the data 
+<br>*Checking for the duplicates 
+<br>*Missing Values Calculation  
+<br>*Exploratory Data Analysis   
 
 
 This project uses some databases, then
