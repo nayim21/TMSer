@@ -4,16 +4,14 @@ and relationships within the data. Time series analysis is commonly used in vari
 The primary goal of time series analysis is to understand the underlying structure and characteristics of the data, as well as to make predictions 
 or forecasts about future values based on historical patterns. It involves several steps, including data collection, data preprocessing, model identification and estimation, 
 model diagnostics, and forecasting.
-
-some key concepts and techniques commonly used in time series analysis:
-Trend, Seasonality, Cyclical Patterns, Autocorrelation, Stationarity.
-In this project, EDA is done.
 <br>*Reading dataset
 <br>*Analyzing the data 
 <br>*Checking for the duplicates 
 <br>*Missing Values Calculation  
-<br>*Exploratory Data Analysis   
+<br>*At the end, Exploratory Data Analysis is done.
 
+some key concepts and techniques commonly used in time series analysis:
+Trend, Seasonality, Cyclical Patterns, Autocorrelation, Stationarity.
 
 This project uses some databases, then
 <br>*Import some library
