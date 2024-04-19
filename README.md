@@ -15,7 +15,7 @@ In this project, EDA is done.
 *Exploratory Data Analysis
 
 
-This project uses some databases,
+This project uses some databases,then
 *Import some library
 *load Database
 *Visualization
