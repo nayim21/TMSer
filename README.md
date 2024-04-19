@@ -8,17 +8,17 @@ model diagnostics, and forecasting.
 some key concepts and techniques commonly used in time series analysis:
 Trend, Seasonality, Cyclical Patterns, Autocorrelation, Stationarity.
 In this project, EDA is done.
-*Reading dataset /n
-*Analyzing the data /n
-*Checking for the duplicates /n
-*Missing Values Calculation   /n
-*Exploratory Data Analysis   /n
+<br>*Reading dataset
+<br>*Analyzing the data /n
+<br>*Checking for the duplicates /n
+<br>*Missing Values Calculation   /n
+<br>*Exploratory Data Analysis   /n
 
 
 This project uses some databases, then
-*Import some library
-*load Database
-*Visualization
-*Define time step 
-*Use the LSTM model, Fit, Predict
-*Calculate metric
+<br>*Import some library
+<br>*load Database
+<br>*Visualization
+<br>*Define time step 
+<br>*Use the LSTM model, Fit, Predict
+<br>*Calculate metric
