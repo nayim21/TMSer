@@ -13,10 +13,9 @@ model diagnostics, and forecasting.
 some key concepts and techniques commonly used in time series analysis:
 Trend, Seasonality, Cyclical Patterns, Autocorrelation, Stationarity.
 
-This project uses some databases, then
-<br>*Import some library
-<br>*load Database
-<br>*Visualization
-<br>*Define time step 
-<br>*Use the LSTM model, Fit, Predict
-<br>*Calculate metric
+
+
+•	Use BTC dataset and Keras,  Sequential Model (LSTM), Predict Close Price.
+•	Use Nasdq dataset and Torch, Sequential Model (LSTM), Predict Close Price.
+•	Use tsfresh for feature extraction
+
