@@ -17,4 +17,4 @@ Trend, Seasonality, Cyclical Patterns, Autocorrelation, Stationarity.
 
 <br>* Use BTC dataset and Keras,  Sequential Model (LSTM), Predict Close Price.
 <br>*	Use Nasdq dataset and Torch, Sequential Model (LSTM), Predict Close Price.
-<be>* Use tsfresh for feature extraction
+<br>* Use tsfresh for feature extraction
